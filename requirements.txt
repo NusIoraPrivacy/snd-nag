@@ -1,0 +1,12 @@
+absl-py
+pytest
+sacrebleu==1.4.10
+six
+wheel
+progressbar
+pyyaml
+nltk
+sentencepiece
+spacy
+boto3
+progressbar
